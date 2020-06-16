@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.1.0](https://github.com/lukeshay-sa/lerna-practice/compare/@lukeshay/package-one@1.0.2...@lukeshay/package-one@1.1.0) (2020-06-16)
+
+
+### Features
+
+* added index.js ([30cc2f9](https://github.com/lukeshay-sa/lerna-practice/commit/30cc2f9a4ba2ff9106b3e1805c5a2893f22e7b08))
+
+
+
+
+
 ## [1.0.2](https://github.com/lukeshay-sa/lerna-practice/compare/@lukeshay/package-one@1.0.1...@lukeshay/package-one@1.0.2) (2020-06-16)
 
 
