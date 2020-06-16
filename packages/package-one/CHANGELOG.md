@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.2](https://github.com/lukeshay-sa/lerna-practice/compare/@lukeshay/package-one@1.0.1...@lukeshay/package-one@1.0.2) (2020-06-16)
+
+
+### Bug Fixes
+
+* added publish config ([faed933](https://github.com/lukeshay-sa/lerna-practice/commit/faed933523b66d7eea69d1ce135aa429a50d5f8a))
+
+
+
+
+
 ## 1.0.1 (2020-06-16)
 
 
