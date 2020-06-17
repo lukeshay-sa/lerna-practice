@@ -1,9 +1,9 @@
-63 error Error: Command failed: git commit -F /private/var/folders/20/6r7qxcb167g579sn7bpgty8m0000gp/T/89a7e9ac-4d23-4aa4-afa8-c5c111f1d458/lerna-commit.txt
+63 error Error: Command failed: git commit -F /private/var/folders/20/6r7qxcb167g579sn7bpgty8m0000gp/T/1f1491b6-0514-4f0f-98af-38a60c66e09d/lerna-commit.txt
 63 error husky > commit-msg (node v12.18.0)
 63 error ⧗   input: Publish
 63 error
-63 error  - @lukeshay/package-one@5.0.0
-63 error  - @lukeshay/package-two@1.0.8
+63 error  - @lukeshay/package-one@7.0.0
+63 error  - @lukeshay/package-two@1.0.10
 63 error ✖   subject may not be empty [subject-empty]
 63 error ✖   type may not be empty [type-empty]
 63 error
