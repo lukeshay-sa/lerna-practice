@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.14](https://github.com/lukeshay-sa/lerna-practice/compare/@lukeshay/package-two@1.0.12...@lukeshay/package-two@1.0.14) (2020-06-17)
+
+
+### Bug Fixes
+
+* file ([9567d6a](https://github.com/lukeshay-sa/lerna-practice/commit/9567d6a4dcfcee1ab5bab2fb06f06250d6a6faca))
+
+
+
+
+
 ## [1.0.13](https://github.com/lukeshay-sa/lerna-practice/compare/@lukeshay/package-two@1.0.3...@lukeshay/package-two@1.0.13) (2020-06-17)
 
 

@@ -14,8 +14,7 @@
         "**/test/**",
         "@(!(native-modules|built-ins|plugins|package)).json"
       ],
-      "yes": true,
-      "noGitTagVersion": true
+      "yes": true
     }
   }
 }
