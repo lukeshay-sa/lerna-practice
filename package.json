@@ -17,7 +17,7 @@
       "extends": ["@commitlint/config-conventional"]
   },
   "scripts": {
-    "release": "cross-env HUSKY_BYPASS=true lerna publish",
+    "version": "cross-env HUSKY_BYPASS=true lerna version --no-git-tag-version",
     "test": "lerna run test",
     "build": "lerna run build",
     "clean": "lerna run clean"
