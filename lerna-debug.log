@@ -1,0 +1,17 @@
+63 error Error: Command failed: git commit -F /private/var/folders/20/6r7qxcb167g579sn7bpgty8m0000gp/T/59287a98-96d4-4fdb-b0ac-0bd811a7a111/lerna-commit.txt
+63 error husky > commit-msg (node v12.18.0)
+63 error ⧗   input: Publish
+63 error
+63 error  - @lukeshay/package-one@3.0.0
+63 error  - @lukeshay/package-two@1.0.6
+63 error ✖   subject may not be empty [subject-empty]
+63 error ✖   type may not be empty [type-empty]
+63 error
+63 error ✖   found 2 problems, 0 warnings
+63 error ⓘ   Get help: https://github.com/conventional-changelog/commitlint/#what-is-commitlint
+63 error
+63 error husky > commit-msg hook failed (add --no-verify to bypass)
+63 error
+63 error     at makeError (/Users/lshay/dev/personal/lerna-test/node_modules/execa/index.js:174:9)
+63 error     at /Users/lshay/dev/personal/lerna-test/node_modules/execa/index.js:278:16
+63 error     at processTicksAndRejections (internal/process/task_queues.js:97:5)
