@@ -15,5 +15,8 @@
   "license": "MIT",
   "devDependencies": {
     "eslint": "^7.2.0"
+  },
+  "dependencies": {
+    "@lukeshay/package-one": "^10.0.0"
   }
 }
